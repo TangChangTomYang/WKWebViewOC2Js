@@ -1,4 +1,6 @@
 
+[简书地址](https://www.jianshu.com/p/2a4123fa643a)
+
 首先,我们要明确一个问题,在HTML中看到的每个内容都是用HTML标签来描述并且由CSS来决定显示的样式的,因此,我们想隐藏(移除) HTML 中的具体内容主要有2种做法:<br>(1) 移除对应的html 标签<br>(2)修改对应标签的CSS 样式<br><br>**我们这里采用第二种,修改CSS 样式来隐藏具体的内容,具体步骤如下:**
 
 ![要移除内容的网页](https://upload-images.jianshu.io/upload_images/2018969-d2acd3d21bca65e5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
